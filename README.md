@@ -1,6 +1,6 @@
 # Horiseon Refract Challenge
 
-Foobar is a Python library for dealing with word pluralization.
+This challenge is designed to increase accesibility by refractoring the code. We can do thi sby creating semantic html elements, follow a logical html outline, create appropriate alt attrributes for images, and create sequential orders for the attributes. 
 
 ## Contributors
 
@@ -8,7 +8,7 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Deployed Website Link
  
- [Horiseon Refractored](file:///C:/Users/davon/OneDrive/Desktop/projects/CodeRefract/index.html)
- 
+ [Horiseon Refractored](index.html)
+
 
 
