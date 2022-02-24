@@ -12,7 +12,7 @@ This challenge is designed to increase accessibility by refractoring the code. W
 
 # Deployed Portfolio
 
-![Deployed Portfolio](./assets/images/Horiseon .png)
+![Deployed Portfolio](./assets/images/Horiseon.png)
 
 
 
