@@ -10,5 +10,8 @@ This challenge is designed to increase accessibility by refractoring the code. W
  
  [Horiseon Refractored](https://davonhb.github.io/Challenge01/)
 
+# Deployed Portfolio
+
+![Deployed Portfolio](./assets/images/Horiseon.png)
 
 
